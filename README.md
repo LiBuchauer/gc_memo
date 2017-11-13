@@ -39,7 +39,7 @@ contains the main simulation loop. If the simulated data is stored as a file, th
 * python 2.7.12 |Anaconda 2.2.0 (x86_64)| (default, Jul  2 2016, 17:43:17) [GCC 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.11.00)]
 
 * matplotlib 1.5.1
-* numpy 1.11.0
+* numpy 1.10.4
 * pandas 0.16.2
 * scipy 0.17.0
 * seaborn 0.7.0
