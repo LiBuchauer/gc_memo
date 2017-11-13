@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1048052.svg)](https://doi.org/10.5281/zenodo.1048052)
 # gc_memo
 1. [What is this?](#1-what-is-this)
 2. [Structure and Requirements](#2-structure-of-the-project)  
