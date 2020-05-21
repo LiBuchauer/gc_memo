@@ -1,4 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1048052.svg)](https://doi.org/10.5281/zenodo.1048052)
+
+## [Please note that gc_memo is no longer under active development.]
+
 # gc_memo
 1. [What is this?](#1-what-is-this)
 2. [Structure and Requirements](#2-structure-of-the-project)  
@@ -9,7 +12,6 @@
     b. [Running simulations](#3b-running-simulations)
 4. [Simulation examples](#4-simulation-examples)
 5. [Caveats](#5-caveats)
-6. [Contact](#6-contact)
 
 ***
 
@@ -164,13 +166,3 @@ Please be aware of the following points when using this code:
 
 ***
 
-## 6. Contact
-If you
-
-* have comments, constructive criticism and suggestions concerning this project,
-
-* want to participate in improving the simulation, both technically and biologically,
-
-* have vaccination data that you think could help improve the model or be understood using it,
-
-please feel free to contact me via email (l.buchauer@dkfz.de) or Twitter (@LiBuchauer) or visit our group's website, the [Division of Theoretical Systems Biology at DKFZ](https://nibelung.bioquant.uni-heidelberg.de/Welcome.html)!
